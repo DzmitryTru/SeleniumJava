@@ -1,0 +1,21 @@
+-
+  #0 Brest Address
+  phoneNumber: 3752911111111
+  street: FreedomStreet
+  city: Brest
+  postalCode: 235265
+  country: Belarus
+-
+  #1 Minsk Address
+  phoneNumber: 375292222222
+  street: JouStreet
+  city: Minsk
+  postalCode: 777777
+  country: Belarus
+-
+  #2 Panama Address
+  phoneNumber: 123456789
+  street: LuckyStreet
+  city: PanamaCity
+  postalCode: 555555
+  country: Panama
